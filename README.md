@@ -19,6 +19,8 @@ This is a getting started project for git and github learner !    这是一个gi
 检出代码：
 > git clone https://github.com/venturezebra/start
 
+注意：此种方式适合一般的git项目，如果是在github平台上，则建议先从github的项目主页上fork到自己的个人仓库，然后从自己的仓库clone代码到本地。
+
 创建分支（在远程创建）：
 > git checkout -b start_v0.1_yang origin/master
 > 

@@ -21,6 +21,7 @@ This is a getting started project for git and github learner !    这是一个gi
 
 创建分支（在远程创建）：
 > git checkout -b start_v0.1_yang origin/master
+> 
 > git push origin start_v0.1_yang
 
 在本地编写代码，加入版本控制(如果有空文件夹需要加入，记得在空文件夹里面创建一个空的 .empty 文件，否则git add命令会忽略空文件夹)：

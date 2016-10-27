@@ -30,5 +30,5 @@ This is a getting started project for git and github learner !    这是一个gi
 提交到本地：
 > git commit -m "创建新的版本分支并第一次提交以初始化"
 
-提交到远程：
+推送到远程：
 > git push origin start_v0.1_yang 
